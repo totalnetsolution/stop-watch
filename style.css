@@ -1,0 +1,16 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-image: url(./image/68f057954824fe07efac7a92a9b2168b.gif);
+    background-size: 1250px;
+}
+
+.stopwatch {
+    font-size: 3em;
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+}
